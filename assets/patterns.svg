@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="510" viewBox="0 0 520 510">
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c4cab7"/></pattern></defs>
+<rect x="10" y="10" width="500" height="480" rx="250" fill="url(#grid)"/>
+<circle cx="260" cy="238" r="179" fill="none" stroke="#c1c9b2"/>
+<circle cx="260" cy="238" r="137" fill="#e7ebdc" stroke="#b2bea0"/>
+<g stroke="#899775" fill="none" stroke-width="1"><path d="M63 164 201 193 319 158 451 189M63 164 200 281 320 239 451 189M65 306 201 193 320 320 451 291M65 306 200 281 319 158 451 291M83 236 201 193M83 236 200 281M320 239 451 291"/></g>
+<g fill="#f4f3eb" stroke="#334b38" stroke-width="1.4"><circle cx="63" cy="164" r="9"/><circle cx="83" cy="236" r="9"/><circle cx="65" cy="306" r="9"/></g>
+<g fill="#d7ed8a" stroke="#334b38" stroke-width="1.5"><circle cx="201" cy="193" r="19"/><circle cx="200" cy="281" r="19"/><circle cx="319" cy="158" r="14"/><circle cx="320" cy="239" r="19"/><circle cx="320" cy="320" r="14"/></g>
+<g fill="#334b38"><circle cx="451" cy="189" r="10"/><circle cx="451" cy="291" r="10"/></g>
+<rect x="178" y="345" width="163" height="40" rx="20" fill="#20231f"/><text x="260" y="370" text-anchor="middle" fill="#f4f3eb" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">LEARNED PATTERNS</text>
+<text x="62" y="119" fill="#536047" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">INPUT</text><text x="412" y="144" fill="#536047" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">OUTPUT</text>
+<path d="M451 308V411H316" stroke="#334b38" stroke-width="1.2" fill="none" stroke-dasharray="4 4"/>
+<rect x="170" y="397" width="181" height="44" rx="4" fill="#d7ed8a" stroke="#334b38"/>
+<circle cx="195" cy="419" r="10" fill="#334b38"/><path d="m190 419 4 4 6-8" fill="none" stroke="#d7ed8a" stroke-width="1.5"/><text x="218" y="423" fill="#20231f" font-family="Arial,sans-serif" font-size="11" letter-spacing="1">HUMAN CHECK</text>
+<text x="261" y="65" text-anchor="middle" fill="#536047" font-family="Georgia,serif" font-style="italic" font-size="20">A little less magic. A little more context.</text>
+</svg>
